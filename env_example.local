@@ -1,0 +1,4 @@
+NEXT_PUBLIC_GOOGLE_CLIENT_ID=your_google_client_id
+DATABASE_URL='mongodb://localhost:27017/apeta?replicaSet=rs0&retryWrites=true&w=majority'
+NEXTAUTH_URL=http://localhost:3001
+NEXTAUTH_SECRET=your_random_secret_key
